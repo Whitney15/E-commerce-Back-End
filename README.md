@@ -1,7 +1,9 @@
 ## E-commerce Back End Starter Code 
-![Github liscense](https://img.shields.io/badge/license-GNUGPLv3-green.svg) 
+
+
 ## Description
-bkcd
+to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -10,14 +12,20 @@ bkcd
 - [License](#license)
 
 ## Installation Requirements
-nkcsa
+Install npm packages 
+    mysql2:
+    npm i mysql2
+    
+    sequelize:
+    npm i sequelize 
+    
+    dotenv:
+    npm i dotenv
+
 ## Usage
 bkcs
-## Credit
-jcsk
-## License
+## Screenshots
 
-* [License](#license)
+## Video 
 
-##
-## Under GNUGPLv3 license.
+## Links
