@@ -1,4 +1,4 @@
-## E-commerce Back End Starter Code 
+# E-commerce Back End Starter Code 
 
 
 ## Description
@@ -22,8 +22,6 @@ Install npm packages
     dotenv:
     npm i dotenv
 
-## Usage
-bkcs
 ## Screenshots
 
 ## Video 
